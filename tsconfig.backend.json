@@ -1,0 +1,24 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+  "module": "nodenext",
+  "moduleResolution": "node16",
+  "allowSyntheticDefaultImports": true,
+  "esModuleInterop": true,
+    "target": "ES2020",
+    "outDir": "./dist",
+  "rootDir": "./src",
+    "resolveJsonModule": true,
+    "noEmit": false,
+    "skipLibCheck": true,
+    "strict": false
+  },
+  "include": [
+    "src/server.ts",
+    "src/controllers/**/*.ts",
+    "src/routes/**/*.ts",
+    "src/middlewares/**/*.ts",
+    "src/utils/**/*.ts",
+    "src/types.d.ts"
+  ]
+}
