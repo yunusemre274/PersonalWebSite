@@ -11,8 +11,8 @@ It is built with modern web technologies and designed to be fast, responsive, an
 
 ## 🛠 Technologies Used
 - HTML5, CSS3, JavaScript
-- [Framework/Library] (e.g., React, Next.js, or plain JS)
-- [Optional tools] (e.g., Bootstrap, TailwindCSS)
+-  (e.g., React, Next.js, or plain JS)
+- (e.g., Bootstrap, TailwindCSS)
 
 ## 📦 Installation
 Clone the repository:
